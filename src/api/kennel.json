@@ -1,0 +1,89 @@
+{
+  "employees": [
+    {
+      "id": 6,
+      "name": "Doopdie Due",
+      "skill": "Makes good coffee"
+    },
+    {
+      "id": 7,
+      "name": "Snoope Dog",
+      "skill": "Smells a bit funky all the time"
+    },
+    {
+      "id": 8,
+      "name": "BucketMan",
+      "skill": "Makes every shot"
+    },
+    {
+      "id": 9,
+      "name": "J_lumpy",
+      "skill": "Has an interesting shape"
+    },
+    {
+      "id": 10,
+      "name": "Big_Baby",
+      "skill": "Still cries alot"
+    },
+    {
+      "id": 11,
+      "name": "Marte",
+      "skill": "Plays the drums"
+    }
+  ],
+  "animals": [
+    {
+      "id": 7,
+      "name": "Lucy",
+      "breed": "Yorkie"
+    },
+    {
+      "id": 8,
+      "name": "DoggieDog",
+      "breed": "Golden Doodle"
+    },
+    {
+      "id": 9,
+      "name": "C-Breezy",
+      "breed": "Alien"
+    }
+    ,
+    {
+      "id": 10,
+      "name": "Rose from titanic",
+      "breed": "Not Frozen"
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "North Nashville"
+    },
+    {
+      "id": 2,
+      "name": "South Nashville"
+    }
+  ],
+  "owners": [
+    {
+      "id": 2,
+      "name": "Hunter",
+      "skill": "Has never hunted"
+    },
+    {
+      "id": 5,
+      "name": "BlueBoy",
+      "skill": "Looks like a blueberry"
+    },
+    {
+      "id": 6,
+      "name": "HatMan",
+      "skill": "Likes hats way to much"
+    },
+    {
+      "id": 7,
+      "name": "RubChild",
+      "skill": "Rubs everything"
+    }
+  ]
+}
