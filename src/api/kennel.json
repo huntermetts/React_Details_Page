@@ -46,8 +46,7 @@
       "id": 9,
       "name": "C-Breezy",
       "breed": "Alien"
-    }
-    ,
+    },
     {
       "id": 10,
       "name": "Rose from titanic",
@@ -84,6 +83,11 @@
       "id": 7,
       "name": "RubChild",
       "skill": "Rubs everything"
+    },
+    {
+      "name": "Jordan",
+      "skill": "Good at math",
+      "id": 8
     }
   ]
 }
